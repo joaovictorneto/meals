@@ -1,16 +1,11 @@
 # meals
 
-A new Flutter project.
+A Flutter project.
 
-## Getting Started
+## Feito com base no curso 
 
-This project is a starting point for a Flutter application.
+Projeto desenvoldio durante o curso de Flutter da COD3R.
 
-A few resources to get you started if this is your first Flutter project:
+Seção 7: Navegação & Múltiplas Telas - Flutter:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- [Aprenda Flutter e Desenvolva Apps Para Android e IOS 2021](https://www.udemy.com/course/curso-flutter/codelab)
