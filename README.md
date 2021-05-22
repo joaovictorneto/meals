@@ -1,10 +1,8 @@
 # meals
 
-A Flutter project.
+Projeto Flutter de refeições. 
 
-## Feito com base no curso 
-
-Projeto desenvoldio durante o curso de Flutter da COD3R.
+Desenvolvimento do projeto realizado através do curso de Flutter da COD3R.
 
 Seção 7: Navegação & Múltiplas Telas - Flutter:
 
